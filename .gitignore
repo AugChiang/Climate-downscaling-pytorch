@@ -1,0 +1,4 @@
+*.[oa]
+*__pycache__/
+*.ipynb
+*.png
